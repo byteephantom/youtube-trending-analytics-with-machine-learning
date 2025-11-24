@@ -59,6 +59,14 @@ youtube-trending-analytics/
 └── README.md
 
 
-Upload hour
-
-Category
+Project-Root/
+├── src/
+│   ├── main.py
+│   └── utils.py
+├── data/
+│   ├── raw_data.csv
+│   └── processed_data.csv
+├── tests/
+│   └── test_main.py
+├── README.md
+└── requirements.txt
