@@ -6,7 +6,7 @@
 
 **📌 Project Highlights**
 
-- Cleaned & analyzed a massive 12GB multi-country dataset
+- Cleaned & analyzed a massive 500 mb multi-country dataset
 - Removed duplicates, converted Hindi → Hinglish titles
 - Extracted keywords, bigrams, trigrams, clickbait patterns
 - Built feature engineering: title_length, tags_count, publish_hour
