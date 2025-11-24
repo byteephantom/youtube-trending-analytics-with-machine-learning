@@ -51,22 +51,12 @@
      
 ---
 
-youtube-trending-analytics/
-│
-├── youtube_trendiing_analysis.ipynb   # Main notebook
-├── plots/                            # All generated plots
-├── sample_data.csv                   # Small demo dataset
-└── README.md
+**📈 Visualizations**
 
-
-Project-Root/
-├── src/
-│   ├── main.py
-│   └── utils.py
-├── data/
-│   ├── raw_data.csv
-│   └── processed_data.csv
-├── tests/
-│   └── test_main.py
-├── README.md
-└── requirements.txt
+- Category performance
+- Channel ranking
+- Keyword clouds
+- Title pattern analysis
+- Upload-hour heatmaps
+- Trending duration visualization
+- Feature importance chart
